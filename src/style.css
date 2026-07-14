@@ -83,3 +83,15 @@ Do not delete any of the above code. */
     color: #2c3e50;
   }
 }
+
+/* styling for moblie */ 
+@media screen and(max-width:986px){
+  .light-box{
+    background-color: green;
+    color: white;
+  }
+}
+  
+}
+  
+}
